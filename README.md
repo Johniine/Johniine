@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johniine
 - 👀 I’m interested in Information Technology.
-- 🌱 I’m currently learning Python Language.
+- 🌱 Python Language, HTML, CSS, SQL DB Browser.
 
 <!---
 Johniine/Johniine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
